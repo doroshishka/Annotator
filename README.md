@@ -1,5 +1,6 @@
 # Annotator
 Annotator Workshop
+
 Penn Treebank tags: https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html
 ```
 library(dplyr)
